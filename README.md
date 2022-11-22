@@ -3,7 +3,7 @@ I am a Ph.D. candidate at the University of Minnesota, Twin-Cities. I work in th
 
 Here are quick links to released software:
 - [Step Detection Algorithm](https://github.com/SalapakaLab-SIMBioSys/Step-Detection-Algorithm) 
-- Non-Equilibrium Toolbox
+- [Non-Equilibrium Toolbox](https://github.com/SalapakaLab-SIMBioSys/Non-Equilibrium-Toolbox)
 
 <!--
 **sivrmn/sivrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
