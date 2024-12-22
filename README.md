@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Research Fellow working with Prof. Nansu Zong, at the Department of Artificial Intelligence and Informatics, Mayo Clinic. I obtained my Ph.D. from the Salapaka Lab, University of Minnesota, Twin-Cities in Electrical and Computer Engineering. I was advised by Prof. Murti Salapaka. My thesis was on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. My research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.
+I am a Research Fellow at the Department of Artificial Intelligence and Informatics, Mayo Clinic. I obtained my Ph.D. from the Salapaka Lab, University of Minnesota, Twin-Cities in Electrical and Computer Engineering. I was advised by Prof. Murti Salapaka. My thesis was on the development of experimental as well as analytical tools needed to model the mechanical properties of proteins at the single molecule scale. My research is at the intersection of system identification, biophysics, statistical mechanics, and machine learning.
 
 ### Released Software
 Here are quick links to released software:
