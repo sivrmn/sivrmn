@@ -6,7 +6,7 @@ Here are quick links to released software:
 - [Step Detection Algorithm](https://github.com/SalapakaLab-SIMBioSys/Step-Detection-Algorithm) 
 - [Non-Equilibrium Toolbox](https://github.com/SalapakaLab-SIMBioSys/Non-Equilibrium-Toolbox)
 
-If you have any questions on using them or any suggestions, please reach me at sivrmn@umn.edu.
+If you have any questions on using them or any suggestions, please reach me at sivaraman.rajaganapathy@gmail.com.
 
 ### Portfolio
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sivrmn.github.io/)
